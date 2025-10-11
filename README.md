@@ -1,5 +1,4 @@
-# Heart-Disease-Risk-Prediction-and-Analytics
-#  Heart Disease Risk Prediction and Analysis  
+# Heart-Disease-Risk-Prediction-and-Analytics  
 *(Tentative Title — To Be Finalized)*  
 
 ---
